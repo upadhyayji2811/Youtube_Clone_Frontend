@@ -12,7 +12,7 @@ This is the React frontend of the YouTube Clone application, built with Vite and
 
 ## live link for Demo
 
-- [live link]()
+- [live link](https://youtube-clone-frontend-theta.vercel.app/)
 
 ---
 
