@@ -6,7 +6,7 @@ This is the React frontend of the YouTube Clone application, built with Vite and
 
 ## Git Repositories
 
-- [Frontend Github Repo]()
+- [Frontend Github Repo](https://github.com/upadhyayji2811/Youtube_Clone_Frontend.git)
 
 ---
 
