@@ -33,7 +33,7 @@ This is the React frontend of the YouTube Clone application, built with Vite and
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 youtube_clone_frontend/
