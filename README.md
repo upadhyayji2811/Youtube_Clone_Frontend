@@ -15,9 +15,11 @@ This is the React frontend of the YouTube Clone application, built with Vite and
 - [live link](https://youtube-clone-frontend-theta.vercel.app/)
 
 ---
+## Screenshot
 
-![Upload Video API Screenshot](.src/assets/Screenshot 2025-05-30 101913.png)
-![Upload Video API Screenshot](.src/assets/Screenshot 2025-05-30 101913.png)
+![Screenshot 2025-05-30 184306](https://github.com/user-attachments/assets/68e41492-0dc7-4097-8df6-db1a5478b1bd)
+![Screenshot 2025-05-30 184355](https://github.com/user-attachments/assets/8f19b4fe-4041-4af7-9060-0dde0573f2c0)
+
 
 ---
 
